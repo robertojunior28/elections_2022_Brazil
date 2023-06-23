@@ -8,3 +8,4 @@ o processo de ETL foi usado para gerar arquivos CSV filtrados para que mais
 tarde fosse trabalhado no Looker Studio gerando assim gráficos de fácil 
 entendimento ao publico. Segue o link do relatório no Looker
 https://lookerstudio.google.com/reporting/69b0ce0e-0993-429a-a6cc-fcb61340d95f
+---> Todo o processo de ETL foi feito no Jupyter Notebook (anaconda3) <---
